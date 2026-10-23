@@ -1,0 +1,12 @@
+{
+  "edges": [
+    [
+      "operator",
+      "reviewer"
+    ],
+    [
+      "reviewer",
+      "auditor"
+    ]
+  ]
+}
